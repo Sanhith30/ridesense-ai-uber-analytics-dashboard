@@ -108,7 +108,7 @@ Contains dataset & GIF preview.
 
 ## 📸 **Dashboard Preview**
 
-![Dashboard Preview](attached_assets/Dasboard_1755850616783.gif)
+![Dashboard Preview](RidePredictor/attached_assets/Dasboard_1755850616783.gif)
 
 ---
 
